@@ -1,0 +1,30 @@
+.custom-div {
+    padding: 20px;
+    text-align: center;
+    background-color: hsl(0, 0%, 96%);
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+.custom-div h2 {
+    color: #3880ff;
+}
+
+.custom-div button {
+    padding: 10px 20px;
+    background-color: #3880ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-div button:hover {
+    background-color: #3171e0;
+}
+
+.content {
+    --background: linear-gradient(45deg, #75787c, #ffffff);
+}
