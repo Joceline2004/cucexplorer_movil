@@ -1,0 +1,7 @@
+{
+  "name": "cucexplorer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
